@@ -1,5 +1,5 @@
 # PROJECTS
-### [8:57 pm, 03/03/2026] Sathya Sree 💜:  🧮 Simple Calculator Web App
+###   🧮 Simple Calculator Web App
 
 ## 📌 Project Description
 This is a basic calculator web application built using HTML, CSS, and JavaScript.  
