@@ -36,8 +36,6 @@ This project was created to practice front-end development skills and understand
 
 ---
 
-## 📸 Screenshot
-(Add a screenshot of your calculator UI here if you want)
 
 ---
 
